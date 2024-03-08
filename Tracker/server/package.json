@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.2.1",
+    "@react-native-community/voice": "^1.1.9",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "8.0.2",
+    "nodemon": "^3.1.0"
+  }
+}
